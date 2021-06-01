@@ -1,0 +1,37 @@
+body
+{
+  color: #A7C7E7;
+  background: #1434A4;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed #F0FFFF;
+  width: 350px;
+  height: 300px; 
+}
+.object_name
+{
+  font-size: 40px;
+}
+.gesture_icon
+{
+  font-size:48px;
+}
+.heading
+{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+label
+{
+  font-size: 14px;
+  color:#00008B ;
+  padding: 6px;
+  border-radius: 10px;
+  background-color:#F0FFFF;
+}
